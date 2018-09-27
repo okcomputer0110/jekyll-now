@@ -1,5 +1,5 @@
 ---
-title: WEEK 4: DISCOVERING ASCII AND MORE...
+title: WEEK 4
 layout: post
 author: benjamin.corby
 permalink: /week-4:-discovering-ascii-and-more.../
